@@ -1,7 +1,8 @@
-# PRSU-YOLO
+# PRSU-YOLO [![DOI](https://zenodo.org/badge/1033178804.svg)](https://doi.org/10.5281/zenodo.16791499)
 
 This code is directly related to the manuscript(Enhanced Small Object Detection in UAV Imagery:
  PRSU-YOLO with Multi-Scale Adaptability) submitted to the Visual Computer.
+
 
 
 ## Performance 
